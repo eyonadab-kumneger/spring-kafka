@@ -1,7 +1,7 @@
-package com.example.kafka.service.producer;
+package com.consumer.kafka.service.producer;
 
 
-import com.example.kafka.model.Book;
+import com.consumer.kafka.model.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;

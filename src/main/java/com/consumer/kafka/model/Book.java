@@ -1,4 +1,4 @@
-package com.example.kafka.model;
+package com.consumer.kafka.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

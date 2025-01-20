@@ -1,13 +1,13 @@
-package com.example.kafka;
+package com.consumer.kafka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KafkaApplication {
+public class KafkaProducerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KafkaApplication.class, args);
+		SpringApplication.run(KafkaProducerApplication.class, args);
 	}
 
 }

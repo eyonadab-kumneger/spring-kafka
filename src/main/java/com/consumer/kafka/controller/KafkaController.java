@@ -1,8 +1,8 @@
-package com.example.kafka.controller;
+package com.consumer.kafka.controller;
 
 
-import com.example.kafka.model.Book;
-import com.example.kafka.service.producer.KafkaProducerService;
+import com.consumer.kafka.model.Book;
+import com.consumer.kafka.service.producer.KafkaProducerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
